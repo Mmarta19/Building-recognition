@@ -1,3 +1,5 @@
 # Grup-1
 Projecte GDSA
-Test
+  Marta Coll
+  David Molina
+  Marta Barrachina
